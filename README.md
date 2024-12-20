@@ -13,3 +13,6 @@ By leveraging these insights, the HR department can:
 - Predict future workforce needs by analyzing current workforce demographics, skill sets, and retirement trends.
   
 This tool equips HR with actionable data to foster a stronger, more resilient workforce.
+
+- <b>Tableau HR Analytics Dashboard Link</b>
+  - [HR Analytics Dashboard](https://public.tableau.com/app/profile/cassandra7850/viz/HREmployeeAnalysis_17339475341850/HRAnalyticsDashboard)
